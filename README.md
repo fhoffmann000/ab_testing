@@ -88,7 +88,7 @@ if __name__ == "__main__":
     experiment.run()
 ```
 
-Customizing the Experiment
+#### Customizing the Experiment
 
 You can modify the parameters to fit your use case:
 
